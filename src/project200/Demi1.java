@@ -7,6 +7,10 @@ public class Demi1 {
 		int b = 20;
 		int result = a+b;
 		System.out.println(result);
+
+
+		int x =10
+	int y =20 
 		
 	}
 
