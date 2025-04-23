@@ -9,9 +9,17 @@ public class Demi1 {
 		System.out.println(result);
 
 
-		int x =10
-	int y =20 
+		int x =10;
+	int y =20 ;
 		
 	}
 
+
+public void getInfo(String name,int id) {
+	System.out.println(name);
 }
+
+	
+
+public void getDta() {
+} }
